@@ -1,0 +1,16 @@
+{
+  "name": "neon-logger",
+  "version": "1.0.1",
+  "type": "module",
+  "description": "Rainbow_log is a lightweight and colorful logger package for Node.js that supports five log levels: info, warn, error, debug, and verbose. Each level is displayed in a distinct color to improve readability and make debugging easier. With Rainbow_log, you can quickly differentiate log messages by their severity, making your development and troubleshooting process more efficient.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["logger", "log", "console", "colors", "debug", "nodejs"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
